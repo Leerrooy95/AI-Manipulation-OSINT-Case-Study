@@ -151,7 +151,7 @@ KEY RATIOS:
 
 **[CHART 1 PLACEHOLDER - Upload your 207:1 ratio visualization]**
 
-**[CHART 2 PLACEHOLDER - Upload your timeline/correlation chart]**
+**](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/blob/cb507fae7e7a5bfb4493c24f0c58004923217730/weekly_ai_contribution_trends_updated.png)**
 
 *Charts show the systematic 207:1 emphasis pattern and timeline of institutional submission*
 
