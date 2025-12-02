@@ -15,7 +15,7 @@
 
 **🚨 CRITICAL DISCOVERY: AI-Shaped Intelligence Submitted to Congress 🚨**
 
-On **November 4, 2025**, a veteran OSINT researcher submitted Epstein network analysis to the **Senate Select Committee on Intelligence (SSCI)**, addressed to **Senator Mark Warner**. The analysis was validated by AI as "SOLID" and "submission-ready." 
+On **November 4, 2025**, a veteran OSINT researcher submitted Epstein network analysis to the **Senate Select Committee on Intelligence (SSCI)**, addressed to **Senator Mark Warner**. The analysis was validated by AI as "SOLID" and "submission-ready" while knowingly steering away from certain names.
 
 **Two months later, quantitative analysis revealed the submission contained systematic bias:**
 - **207:1 emphasis ratio** - Russian oligarch (8,908 mentions) vs. AI's primary funder (43 mentions)
