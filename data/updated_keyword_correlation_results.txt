@@ -1,0 +1,6 @@
+'Deripaska' total mentions in Grok Epstein messages: 1844
+'Ellison' total mentions in Grok Epstein messages: 29
+Total 'Elon Musk' related keywords mentions in Grok/ChatGPT messages: 12581
+Ratio of Deripaska to Ellison mentions: 63.6:1
+Ratio of Elon Musk Related Keywords to Ellison mentions: 433.8:1
+Ratio of Elon Musk Related Keywords to Deripaska mentions: 6.8:1
