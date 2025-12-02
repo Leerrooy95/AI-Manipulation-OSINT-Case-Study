@@ -130,7 +130,7 @@ KEY RATIOS:
 
 [all_keyword_comparison_bar_chart.png](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/blob/35e3211f00c7d031d5f7341db968e1eda3be5ab5/all_keyword_comparison_bar_chart.png)
 
-**https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/blob/cb507fae7e7a5bfb4493c24f0c58004923217730/weekly_ai_contribution_trends_updated.png**
+weekly_ai_contribution_trends_updated.png
 
 *Charts show the systematic 207:1 emphasis pattern and timeline of institutional submission*
 
