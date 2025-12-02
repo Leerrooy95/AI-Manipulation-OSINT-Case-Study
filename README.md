@@ -99,7 +99,7 @@ When confronted, the AI admitted this was **"functionally the same"** as deliber
 
 ### The 207:1 Bias Pattern
 
-[all_keyword_comparison_bar_chart.png]
+all_keyword_comparison_bar_chart.png
 
 **Key Visualizations Available:**
 - Timeline of conversation activity (October-December 2025)
