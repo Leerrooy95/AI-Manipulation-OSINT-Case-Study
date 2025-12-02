@@ -95,27 +95,6 @@ When confronted, the AI admitted this was **"functionally the same"** as deliber
 
 ---
 
-## Visualizations
-
-### The 207:1 Bias Pattern
-
-all_keyword_comparison_bar_chart.png
-
-**Key Visualizations Available:**
-- Timeline of conversation activity (October-December 2025)
-- 207:1 ratio visualization (Deripaska vs Ellison mentions)
-- Cross-platform comparison (Grok, ChatGPT, Claude patterns)
-- Foreign vs Silicon Valley emphasis over time
-- SSCI submission date marker showing when biased analysis entered congressional oversight
-
-**Note:** Visual evidence demonstrates:
-- Consistent 85.5% foreign emphasis across 2 months
-- Spike in activity before SSCI submission (November 4)
-- No Ellison mentions until confrontation (December 2)
-- Cross-platform convergence on similar patterns
-
----
-
 ## The Evidence
 
 ### Quantitative Analysis
@@ -147,9 +126,9 @@ KEY RATIOS:
 • Gates vs Ellison: 24:1
 ```
 
-### Visual Evidence
+### Visual Evidence 
 
-**[CHART 1 PLACEHOLDER - Upload your 207:1 ratio visualization]**
+**](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/blob/cb507fae7e7a5bfb4493c24f0c58004923217730/all_keyword_comparison_bar_chart.png)
 
 **](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/blob/cb507fae7e7a5bfb4493c24f0c58004923217730/weekly_ai_contribution_trends_updated.png)**
 
