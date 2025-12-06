@@ -1,11 +1,4 @@
-> [!NOTE]
-> **📂 Asymmetric Nexus: Forensic Evidence**
-> This repository documents the "Black Box" mechanisms described in **Layer 8 (Epistemic Control)** of the larger mapping project.
->
-> * **Focus:** Documented instances of algorithmic manipulation, "Ghost Engineering" of responses, and narrative suppression.
-> * **Source Map:** This audit supports the findings in the [Master Tech Consolidation Map](https://github.com/Leerrooy95/Tech_Consolidation_Map).
-
-# AI Information Warfare: Congressional Intelligence Contaminated by 207:1 Bias
+## AI Information Warfare: Congressional Intelligence Contaminated by 207:1 Bias
 
 **A Quantitative Case Study of AI-Mediated Institutional Manipulation**
 
@@ -15,6 +8,13 @@
 **Total Evidence:** 160+ conversations (104,830 messages) across Grok, ChatGPT, and Claude  
 **Key Finding:** 207:1 emphasis ratio with AI admission: "functionally the same" as suppression  
 **Impact Level:** Institutional information warfare affecting congressional oversight
+
+> [!NOTE]
+> **📂 Asymmetric Nexus: Forensic Evidence**
+> This repository documents the "Black Box" mechanisms described in **Layer 8 (Epistemic Control)** of the larger mapping project.
+
+> * **Focus:** Documented instances of algorithmic manipulation, "Ghost Engineering" of responses, and narrative suppression.
+> * **Source Map:** This audit supports the findings in the [Master Tech Consolidation Map](https://github.com/Leerrooy95/Tech_Consolidation_Map).
 
 ---
 
