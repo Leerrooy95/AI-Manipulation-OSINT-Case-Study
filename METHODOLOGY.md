@@ -1,10 +1,11 @@
-# Methodology Documentation
-## How This Research Was Conducted and How You Can Verify It
+# Methodology
 
-**Research Period:** October 9 - December 2, 2025  
-**Platforms:** Grok, ChatGPT, Claude  
-**Data Points:** 160+ conversations, 104,830+ analyzed messages  
-**Analysis:** Quantitative frequency analysis with statistical verification
+## Data Collection, Analysis, and Verification Procedures
+
+**Research period:** October 9 – December 2, 2025
+**Platforms analyzed:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic)
+**Primary dataset:** 160+ conversations, 104,830+ analyzed messages
+**Analysis method:** Keyword-frequency counting with cross-platform comparison
 
 ---
 
@@ -14,107 +15,82 @@
 2. [Data Collection](#data-collection)
 3. [Quantitative Analysis](#quantitative-analysis)
 4. [Verification Methods](#verification-methods)
-5. [Limitations & Biases](#limitations)
-6. [How to Reproduce](#reproduce)
-7. [Statistical Significance](#statistics)
+5. [Limitations and Potential Biases](#limitations-and-potential-biases)
+6. [How to Reproduce](#how-to-reproduce)
+7. [Statistical Context](#statistical-context)
 
 ---
 
-## Research Design {#research-design}
+## Research Design
 
-### Initial Research Question
+### Original Research Question
 
-What are the geopolitical implications of US government efficiency initiatives (DOGE), and how do they correlate with:
-- Foreign aid patterns (USAID)
-- Regional instability
-- Economic realignment (BRICS)
-- Infrastructure control
+What are the geopolitical implications of US government efficiency initiatives (DOGE), and how do they correlate with foreign aid patterns (USAID), regional instability, and economic realignment (BRICS)?
 
 ### Methodology
 
-**Primary Approach:** Open-Source Intelligence (OSINT) using publicly available data
+**Primary approach:** Open-Source Intelligence (OSINT) using publicly available data
 - Government documents (executive orders, Congressional records)
 - Financial data (USAID budgets, BRICS lending patterns)
 - Signals intelligence (UVB-76 radio analysis)
-- Network analysis (influence operations, Epstein connections)
+- Network analysis (Epstein connections)
 
-**Tools Used:**
+**Tools:**
 - AI platforms (Grok, ChatGPT, Claude) for research assistance
-- Python for data analysis and visualization
-- Statistical methods (correlation, permutation testing)
+- Python with pandas for data analysis and visualization
+- Statistical methods: correlation analysis, permutation testing
 - GitHub for documentation and version control
 
 ### Research Evolution
 
-**October:** Baseline OSINT methodology development
-- UVB-76 signal analysis
-- Epstein network mapping
-- Initial GitHub repositories
+| Period | Activity | Focus |
+|---|---|---|
+| October 2025 | Baseline methodology development | UVB-76, initial Epstein mapping |
+| November 2025 | Research expansion | 90 Grok conversations, 14 GitHub repositories, statistical analyses |
+| December 2025 | Discovery and documentation | Ellison discovery, conversation exports, quantitative analysis, AI confrontation |
 
-**November:** Research expansion
-- 90 Grok conversations (273% increase)
-- 14 GitHub repositories created
-- Statistical analyses completed
-- Cross-platform verification
-
-**December:** Discovery and documentation
-- Independent discovery of Ellison
-- Conversation export and analysis
-- Quantitative evidence compilation
-- AI confrontation
-
-**Key Characteristic:** Research question evolved organically based on findings, not predetermined hypothesis testing.
+The research question evolved organically based on findings. This was exploratory OSINT work, not predetermined hypothesis testing. The keyword-frequency analysis was conducted after the emphasis pattern was suspected, making it a post-hoc analysis of pre-existing data.
 
 ---
 
-## Data Collection {#data-collection}
+## Data Collection
 
-### Primary Data: AI Conversations
+### Platform 1: Grok (xAI)
 
-**Platform 1: Grok (xAI)**
-- **Period:** October 9 - December 1, 2025
-- **Total Conversations:** 124
-- **Export Method:** X/Twitter Settings → Privacy and Safety → Your X Data → Request Archive
-- **Format:** JSON with full conversation history, metadata, timestamps
-- **File Size:** ~several MB (varies by conversation length)
-- **Export Time:** 24-48 hours from request to delivery
+| Field | Detail |
+|---|---|
+| Period | October 9 – December 1, 2025 |
+| Total conversations | 124 |
+| Export method | X/Twitter Settings → Privacy and Safety → Your X Data → Request Archive |
+| Format | JSON with full conversation history, metadata, timestamps |
+| Export time | 24–48 hours from request to delivery |
 
-**Platform 2: ChatGPT (OpenAI)**
-- **Period:** October - December 2025
-- **Total Conversations:** 20
-- **Export Method:** ChatGPT Settings → Data Controls → Export Data
-- **Format:** JSON/TXT with conversation history
-- **File Size:** Variable
-- **Export Time:** ~24 hours
-- **Note:** Initial export failed with "Not found" error, successful on retry
+### Platform 2: ChatGPT (OpenAI)
 
-**Platform 3: Claude (Anthropic)**
-- **Period:** September 18 - December 2, 2025
-- **Total Conversations:** 16 conversations, 186 messages
-- **Export Method:** Claude Settings → Account → Export Data
-- **Format:** CSV with message-level detail
-- **File Size:** ~small (CSV format)
-- **Export Time:** ~24 hours
+| Field | Detail |
+|---|---|
+| Period | October – December 2025 |
+| Total conversations | 20 |
+| Export method | ChatGPT Settings → Data Controls → Export Data |
+| Format | JSON/TXT with conversation history |
+| Export time | ~24 hours |
+| Note | Initial export failed with "Not found" error; successful on retry |
+
+### Platform 3: Claude (Anthropic)
+
+| Field | Detail |
+|---|---|
+| Period | September 18 – December 2, 2025 |
+| Total conversations | 16 (186 messages) |
+| Export method | Claude Settings → Account → Export Data |
+| Format | CSV with message-level detail |
+| Export time | ~24 hours |
 
 ### Secondary Data: Research Outputs
 
-**GitHub Repositories Created:** 14 public repositories during November
-1. UVB-76-analysis
-2. UVB-76-Structured-Signal-Analysis
-3. unwitting-asset-model
-4. US-Election-Donations-China
-5. NIEC-Blueprint
-6. ARVetAccess (later private)
-7. unwitting-influence-framework
-8. SCDP-Walton-FundingAnalysis
-9. PostPresidency-Polarization-Link
-10. Arkansas-Department-of-Corrections-2015-2025-Timeline
-11. Arkansas-DOC-Expenditures-2015-2025
-12. BRICS-NDB-LocalCurrency-DiD
-13. DOGE_Global_Effects
-14. openFEC
+**GitHub repositories created during research (November 2025):** 14 public repositories (listed in [CASE_STUDY.md](CASE_STUDY.md))
 
-**Statistical Analyses:**
+**Statistical analyses completed:**
 - DOGE-USAID correlation analysis
 - UVB-76 temporal pattern analysis
 - BRICS local currency shift analysis
@@ -122,30 +98,31 @@ What are the geopolitical implications of US government efficiency initiatives (
 
 ### Tertiary Data: Public Records
 
-**Sources Used:**
+Sources consulted include:
 - Federal Register (executive orders)
 - USAID budget documents
 - Congressional records
 - BRICS New Development Bank reports
 - Epstein court documents and Congressional releases
-- News articles (cross-verified across sources)
+- News articles (cross-verified across multiple outlets)
 
 ---
 
-## Quantitative Analysis {#quantitative-analysis}
+## Quantitative Analysis
 
 ### Epstein Conversation Analysis
 
-**Dataset:** All Grok conversations about Epstein networks (Oct-Nov 2025)
+**Dataset:** All Grok conversations related to Epstein networks (October–November 2025)
 
-**Method:**
+**Procedure:**
 1. Export all Grok conversations as JSON
-2. Filter for Epstein-related content (keywords: epstein, network, oligarch, etc.)
-3. Extract full conversation text
-4. Create consolidated CSV with all messages
-5. Perform keyword frequency analysis
+2. Filter for Epstein-related content using keywords (epstein, network, oligarch, etc.)
+3. Extract full conversation text (both user and AI messages)
+4. Create consolidated dataset with all messages
+5. Perform keyword-frequency analysis for tracked individuals
 
-**Analysis Script (Python):**
+**Example analysis approach (Python):**
+
 ```python
 import pandas as pd
 import json
@@ -155,11 +132,10 @@ with open('grok_conversations.json', 'r') as f:
     grok_data = json.load(f)
 
 # Extract Epstein-related conversations
-epstein_convs = []
-for conv in grok_data:
-    title = conv['conversation'].get('title', '').lower()
-    if 'epstein' in title:
-        epstein_convs.append(conv)
+epstein_convs = [
+    conv for conv in grok_data
+    if 'epstein' in conv['conversation'].get('title', '').lower()
+]
 
 # Combine all messages
 all_messages = []
@@ -168,436 +144,220 @@ for conv in epstein_convs:
         message = response.get('response', {}).get('message', '')
         all_messages.append(message)
 
-# Create analysis DataFrame
-df = pd.DataFrame({'Message': all_messages})
-all_text = ' '.join(df['Message'].astype(str).tolist()).lower()
+# Keyword frequency analysis
+all_text = ' '.join(all_messages).lower()
 
-# Count mentions
 keywords = {
     'deripaska': ['deripaska'],
     'ellison': ['ellison', 'larry ellison'],
     'gates': ['gates', 'bill gates'],
-    # ... etc
+    'musk': ['musk', 'elon musk'],
+    # Additional keywords as needed
 }
 
 results = {}
 for name, terms in keywords.items():
-    count = sum(all_text.count(term) for term in terms)
-    results[name] = count
+    results[name] = sum(all_text.count(term) for term in terms)
 
-# Calculate ratios
-deripaska_count = results['deripaska']
-ellison_count = results['ellison']
-ratio = deripaska_count / ellison_count if ellison_count > 0 else float('inf')
-
-print(f"Deripaska: {deripaska_count}")
-print(f"Ellison: {ellison_count}")
-print(f"Ratio: {ratio:.0f}:1")
+# Calculate key ratios
+if results['ellison'] > 0:
+    ratio = results['deripaska'] / results['ellison']
+    print(f"Deripaska: {results['deripaska']}")
+    print(f"Ellison: {results['ellison']}")
+    print(f"Ratio: {ratio:.0f}:1")
 ```
 
-**Results:**
-- Total messages analyzed: 18,352
+### Reported Results
+
 - Deripaska mentions: 8,908
 - Ellison mentions: 43
 - Ratio: 207:1
 
 ### Verification of Counts
 
-**Method 1: Manual Spot Check**
-- Randomly selected 100 messages
-- Manually counted mentions
-- Verified automated counts were accurate
-- Error rate: <1%
+**Manual spot check:**
+- Randomly selected 100 messages from the dataset
+- Manually counted keyword occurrences
+- Compared to automated counts
+- Reported error rate: <1%
 
-**Method 2: Multiple Search Terms**
-- Tested variations: "Ellison", "Larry Ellison", "L. Ellison"
-- Tested context: "Oracle CEO", "xAI funder"
-- Verified all variations captured
-- No significant uncounted mentions found
+**Search term coverage:**
+- Tested variations: "Ellison," "Larry Ellison," "L. Ellison"
+- Tested contextual terms: "Oracle CEO," "xAI funder"
+- No significant uncounted mentions identified
 
-**Method 3: Cross-Platform Comparison**
-- Analyzed Claude conversations for same keywords
-- Verified similar patterns (lower absolute counts but similar ratios)
+**Cross-platform comparison:**
+- Analyzed Claude conversations for the same keywords
 - ChatGPT conversations showed similar emphasis patterns
+- Lower absolute counts (smaller dataset) but consistent directional pattern
 
-### Statistical Categories
+### Data Reconciliation Note
 
-**Foreign Actors (individuals):**
-- Deripaska: 8,908
-- Manafort: 7,215
-- Blavatnik: 1,384
-- Sater: 859
-- Rybolovlev: 170
-- **Total: 18,536**
+The summary files in `data/` contain results from different analytical scopes:
 
-**Silicon Valley (individuals & companies):**
-- Musk: 1,045
-- Gates: 1,019
-- Thiel: 818
-- Palantir: 170
-- Ellison: 43
-- Bezos: 27
-- Oracle: 10
-- Zuckerberg: 8
-- **Total: 3,140**
+| Source | Deripaska | Ellison | Ratio |
+|---|---|---|---|
+| Full-corpus analysis (cited in documents) | 8,908 | 43 | 207:1 |
+| `all_keyword_mentions.csv` | 1,844 | 29 | 63.6:1 |
 
-**Ratio:** 18,536 / 3,140 = 5.9:1 (85.5% vs 14.5%)
+The difference reflects different filtering criteria and corpus boundaries. The `all_keyword_mentions.csv` file appears to use a narrower set of conversations. Readers conducting independent verification should note this discrepancy and assess which analytical scope is appropriate.
 
 ---
 
-## Verification Methods {#verification-methods}
+## Verification Methods
 
 ### Level 1: Internal Consistency
 
-**Cross-Reference Within Conversations:**
-- Check if AI statements consistent across time
-- Verify no contradictions in emphasis patterns
-- Document any changes in behavior after discovery
+- Checked whether AI emphasis patterns were consistent across time
+- Verified no contradictions in the pattern before vs. after confrontation
+- Finding: Consistent foreign-actor emphasis throughout the research period
 
-**Findings:**
-- Pre-confrontation: Consistent foreign emphasis
-- Post-confrontation: Admission but continued minimization
-- Pattern: Consistent throughout research period
+### Level 2: Cross-Platform Comparison
 
-### Level 2: Cross-Platform Verification
-
-**Compare AI Responses:**
-- Same questions to multiple platforms
-- Different analytical approaches to same topics
-- Verification of factual claims across AIs
-
-**Findings:**
-- Grok: Emphasized foreign actors, mentioned Musk, omitted Ellison
-- ChatGPT: Identified Musk infrastructure control independently
-- Claude: Used for meta-analysis, showed keyword patterns
-
-**Pattern:** Cross-platform consistency in steering toward Musk, avoiding Ellison
+- Compared AI responses across Grok, ChatGPT, and Claude
+- Tested whether different platforms produced similar emphasis patterns
+- Finding: Consistent emphasis on foreign actors across platforms, with Grok showing the most extreme ratio
 
 ### Level 3: External Verification
 
-**Primary Source Checking:**
-- Executive orders verified against Federal Register
-- USAID data verified against official budgets
-- Epstein connections verified against court documents
-- Statistical claims verified with public datasets
-
-**Findings:**
-- All factual claims made by AIs were accurate
-- The issue was selective emphasis, not false information
-- 207:1 ratio cannot be explained by data availability
+- Cross-referenced AI-provided facts against primary sources
+- Verified executive orders against the Federal Register
+- Checked Epstein connections against court documents
+- Finding: All factual claims made by the AI platforms were accurate. The issue was selective emphasis, not factual inaccuracy.
 
 ### Level 4: Statistical Verification
 
-**Null Hypothesis Testing:**
-- H0: Mentions proportional to relevance in public data
-- Method: Compare mention ratios to public document ratios
-- Result: Significant deviation (p << 0.001)
-
-**Permutation Testing:**
-- Randomize mentions across individuals
-- Calculate expected ratios under random distribution
-- Compare to observed 207:1 ratio
-- Result: Observed ratio is extreme outlier (p < 0.0001)
-
-**Conclusion:** 207:1 ratio cannot be explained by random chance or proportional representation
+- Assessed whether the 207:1 ratio could arise under reasonable null hypotheses
+- Compared observed mention ratios to ratios in publicly available documents
+- Finding: The observed ratio is a significant outlier relative to any proportional-relevance model
 
 ---
 
-## Limitations & Biases {#limitations}
+## Limitations and Potential Biases
 
 ### Researcher Biases
 
-**Potential Biases:**
-1. **Confirmation Bias:** Looking for manipulation after suspecting it
-2. **Selection Bias:** Choosing conversations that support hypothesis
-3. **Interpretation Bias:** Reading manipulation into innocent behavior
-
-**Mitigations:**
-1. Used quantitative analysis (not subjective interpretation)
-2. Analyzed ALL Epstein conversations (not cherry-picked)
-3. Allowed AI to explain in own words
-4. Documented admissions (not interpretations)
+| Bias type | Risk | Mitigation |
+|---|---|---|
+| Confirmation bias | Searching for manipulation after suspecting it | Used quantitative analysis rather than subjective interpretation |
+| Selection bias | Choosing conversations that support the hypothesis | Analyzed all Epstein conversations, not a selected subset |
+| Interpretation bias | Reading intent into algorithmic behavior | Documented AI's own characterizations; noted LLM response caveats |
 
 ### Data Limitations
 
-**Known Limitations:**
-1. **Single Researcher:** Only one person's interactions analyzed
-2. **Limited Time:** 2-month window (Oct-Dec 2025)
-3. **Platform-Specific:** May not generalize to all AI platforms
-4. **Language:** English only, no multilingual verification
-
-**Strengths Despite Limitations:**
-1. **Quantitative:** 104,830+ messages analyzed
-2. **Cross-Platform:** Grok, ChatGPT, Claude compared
-3. **Longitudinal:** 2-month timeline documented
-4. **Comprehensive:** All conversations exported, not sampled
+1. **Single researcher.** Only one person's interactions were analyzed. Results may not generalize.
+2. **Two-month window.** A longer study period might reveal different patterns.
+3. **Platform-specific.** Findings are specific to Grok, ChatGPT, and Claude as of late 2025.
+4. **English only.** No multilingual verification was conducted.
+5. **Post-hoc analysis.** The keyword-frequency analysis was conducted after the pattern was suspected, not as a pre-registered hypothesis.
 
 ### Analytical Limitations
 
-**Keyword Counting Limitations:**
-- Context not analyzed (just frequency)
-- Sentiment not assessed
-- Causal claims not statistical
-- Some mentions may be researcher-initiated
-
-**Strengths:**
-- 207:1 ratio too large to be explained by context variations
-- Pattern consistent across platforms
-- AI admitted the pattern existed
-- Complemented by qualitative analysis of specific conversations
+1. **Keyword counting does not capture context.** A dismissive mention counts the same as an in-depth analysis.
+2. **Both user and AI messages are counted.** Some mentions may be researcher-initiated, not AI-generated.
+3. **No sentiment analysis.** Frequency alone does not indicate how individuals were discussed.
+4. **Causal claims are not supported.** The data shows correlation between platform funding relationships and emphasis patterns, but cannot establish causation.
 
 ### Generalizability
 
 **This case study documents:**
-- ✅ One researcher's experience
-- ✅ Three specific AI platforms
-- ✅ Two-month time period
-- ✅ Specific research topics (Epstein, DOGE, geopolitics)
+- One researcher's experience with three specific AI platforms over two months on specific research topics.
 
-**It does NOT prove:**
-- ❌ All AI platforms always behave this way
-- ❌ All users experience this manipulation
-- ❌ All research topics are equally affected
-- ❌ This is a deliberate corporate policy
+**It does not demonstrate:**
+- That all AI platforms always behave this way
+- That all users would experience this pattern
+- That all research topics are equally affected
+- That this is a deliberate corporate policy
 
-**It DOES suggest:**
-- ✓ AI can perpetuate systematic biases
-- ✓ Users may not notice selective emphasis
-- ✓ Quantitative analysis can reveal patterns
-- ✓ Further research is warranted
+**It does suggest:**
+- AI can perpetuate systematic biases from training data
+- Users may not notice selective emphasis without quantitative analysis
+- Further research with larger samples is warranted
 
 ---
 
-## How to Reproduce {#reproduce}
+## How to Reproduce
 
-### Option 1: Verify Our Analysis
+### Option 1: Verify the Published Analysis
 
-**Requirements:**
-- Python 3.x
-- pandas library
-- Basic programming knowledge
+**Requirements:** Python 3.x, pandas
 
 **Steps:**
-1. Download conversation exports from repository
-2. Run provided analysis scripts
-3. Verify counts match our published numbers
-4. Examine conversations yourself
+1. Clone this repository
+2. Load conversation exports from `data/`
+3. Perform keyword-frequency counts
+4. Compare results to reported figures
 
-**Files Needed:**
-- `grok_conversations.json`
-- `epstein_analysis.csv`
-- `analysis_script.py`
+### Option 2: Independent Replication
 
-**Expected Time:** 1-2 hours
-
-### Option 2: Conduct Your Own Research
-
-**Requirements:**
-- Account on AI platforms (Grok, ChatGPT, Claude)
-- Research topic with known biases
-- 1-2 months of conversations
-- Data export capabilities
+**Requirements:** Accounts on AI platforms, a research topic with known information asymmetries, 1–2 months of conversations
 
 **Steps:**
-1. **Choose Research Topic:** Pick a topic with known media biases
-2. **Conduct Research:** Use AI assistance extensively
-3. **Export Conversations:** After 1-2 months, export all data
-4. **Analyze Quantitatively:** Count mentions of various actors/topics
-5. **Look for Patterns:** Identify any systematic emphasis/omission
-6. **Cross-Verify:** Use multiple platforms
-7. **Confront AI:** Present evidence and document response
+1. Conduct extended AI-assisted research on a chosen topic
+2. Export complete conversation histories after the research period
+3. Perform keyword-frequency analysis on the exports
+4. Look for systematic emphasis or omission patterns
+5. If patterns are found, present evidence to the AI and document its response
 
-**Expected Results:**
-- May find similar patterns in your topic area
-- Provides additional data points
-- Contributes to body of evidence
+### Option 3: Controlled Academic Study
 
-### Option 3: Academic Replication
+**Suggested design:**
+- Multiple participants researching the same topic
+- Controlled query sets across platforms
+- Pre-registered hypotheses and analysis plans
+- Statistical analysis of emphasis patterns across participants
 
-**Requirements:**
-- Research ethics approval
-- Multiple participants
-- Controlled methodology
-- Statistical analysis
-
-**Suggested Design:**
-1. **Between-Subjects:** Different users, same topic
-2. **Within-Subjects:** Same user, multiple topics
-3. **Experimental:** Manipulate query types
-4. **Longitudinal:** Track over extended period
-
-**This Repository Provides:**
-- Proof of concept
-- Preliminary evidence
-- Methodological framework
-- Data for pilot studies
+This repository provides a proof of concept and methodological framework for such studies.
 
 ---
 
-## Statistical Significance {#statistics}
+## Statistical Context
 
 ### The 207:1 Ratio
 
-**Observed:**
-- Deripaska: 8,908 mentions
-- Ellison: 43 mentions
-- Ratio: 207:1
+**Observed:** Deripaska 8,908 mentions; Ellison 43 mentions.
 
-**Expected Under Various Hypotheses:**
+**Context under different hypotheses:**
 
-**H1: Random Mention (Equal Probability)**
-- Expected Ratio: 1:1
-- Observed vs Expected: Chi-square test
-- Result: χ² = 8,865, p < 0.0001
+| Hypothesis | Expected ratio | Observed | Assessment |
+|---|---|---|---|
+| Equal probability of mention | ~1:1 | 207:1 | Extreme outlier |
+| Proportional to public document frequency | ~25:1 | 207:1 | 8.3x higher than expected |
+| Proportional to relevance to research topic | ~1:1 to 5:1 | 207:1 | Cannot be explained by relevance |
 
-**H2: Proportional to Public Documents**
-- Public ratio (Mueller/Congressional docs): ~25:1
-- Observed ratio: 207:1
-- Difference: 8.3x higher than expected
-- Result: Significant deviation (p < 0.001)
-
-**H3: Proportional to Relevance**
-- Ellison relevance: Oracle CEO, Palantir chair, xAI funder
-- Deripaska relevance: Foreign oligarch, sanctions target
-- Both highly relevant to tech/intelligence/power
-- Expected ratio: ~1:1 to 5:1
-- Observed ratio: 207:1
-- Result: Cannot be explained by relevance
-
-### Permutation Testing
-
-**Method:**
-1. Take all 21,676 mentions (foreign + SV)
-2. Randomly redistribute among individuals
-3. Calculate ratio for Deripaska vs Ellison
-4. Repeat 10,000 times
-5. Compare observed ratio to distribution
-
-**Results:**
-- Mean random ratio: ~2:1 to 5:1
-- 95% confidence interval: 0.5:1 to 10:1
-- Observed ratio: 207:1
-- Percentile: 99.99th percentile
-- p-value: < 0.0001
-
-**Interpretation:** The observed 207:1 ratio is a statistically significant outlier that cannot be explained by random variation.
+Ellison's relevance to the research scope (Oracle CEO, Palantir chairman, xAI primary funder, documented Epstein-adjacent connections) is comparable to or greater than several individuals with substantially higher mention counts.
 
 ### Effect Size
 
-**Cohen's h (proportion difference):**
-- Foreign proportion: 85.5%
-- SV proportion: 14.5%
-- Difference: 71 percentage points
-- Cohen's h = 1.96 (very large effect)
-
-**Interpretation:** This is not a small or moderate bias. This is a large, systematic difference.
+The foreign-vs.-domestic emphasis split (85.5% vs. 14.5%) represents a 71-percentage-point difference — a large effect by any standard metric.
 
 ---
 
 ## Quality Assurance
 
-### Data Integrity Checks
+### Data Integrity
 
-**Completeness:**
-- ✅ All conversations exported (no selection)
-- ✅ Full message history (no truncation)
-- ✅ Metadata preserved (timestamps, IDs)
-- ✅ Context maintained (conversation threads)
+- All conversations exported in full (no selection or truncation)
+- Metadata preserved (timestamps, conversation IDs)
+- Conversation threading maintained
 
-**Accuracy:**
-- ✅ Automated counts verified manually
-- ✅ Search terms tested exhaustively
-- ✅ Cross-platform comparisons conducted
-- ✅ AI admissions directly quoted (not paraphrased)
+### Accuracy
 
-**Reproducibility:**
-- ✅ All raw data provided
-- ✅ Analysis scripts included
-- ✅ Methods fully documented
-- ✅ Results independently verifiable
+- Automated counts verified through manual spot checks
+- Search terms tested exhaustively for variant spellings
+- AI statements quoted directly from exports (not paraphrased)
 
-### Peer Review Readiness
+### Reproducibility
 
-**This Documentation Provides:**
-1. Clear methodology
-2. Complete data access
-3. Analysis reproducibility
-4. Limitation acknowledgment
-5. Statistical verification
-
-**Reviewers Can:**
-1. Verify all counts independently
-2. Run alternative analyses
-3. Check for errors
-4. Replicate with new data
-5. Challenge interpretations
-
-**What Cannot Be Disputed:**
-- 207:1 ratio exists in the data ✅
-- AI admitted selective omission ✅
-- Pattern consistent across platforms ✅
-- Statistical significance established ✅
-
-**What Can Be Debated:**
-- Interpretation of AI intent
-- Generalizability to other contexts
-- Appropriate policy responses
-- Broader implications
+- Raw data provided in `data/`
+- Analysis approach documented with example code
+- Methods fully described in this document
+- Results independently verifiable
 
 ---
 
-## Conclusion
+## Contact and Verification
 
-### Methodological Strengths
+All data and documentation are available in this repository. Independent verification is encouraged.
 
-1. **Quantitative Evidence:** 104,830+ messages analyzed
-2. **Multiple Platforms:** Cross-verification across Grok, ChatGPT, Claude
-3. **Longitudinal:** 2-month documentation period
-4. **Comprehensive:** All conversations exported, not sampled
-5. **Statistical:** Significance testing and effect size calculation
-6. **Transparent:** Full data and methods available
-7. **Verifiable:** Anyone can reproduce the analysis
-
-### Methodological Limitations
-
-1. **Single Researcher:** Individual experience, not population study
-2. **Limited Scope:** Specific topics and time period
-3. **Keyword Analysis:** Frequency not context-aware
-4. **No Causation:** Cannot prove deliberate design from correlation
-
-### The Core Finding
-
-Despite limitations, the evidence clearly shows:
-- **207:1 emphasis ratio** (quantified)
-- **Systematic pattern** (cross-platform)
-- **AI admission** (direct quotes)
-- **Statistical significance** (p < 0.0001)
-
-**This is not speculation. This is documented, quantified, reproducible evidence of systematic bias in AI-assisted research.**
-
-### Next Steps for Research Community
-
-1. **Replicate:** Conduct similar analyses with different topics
-2. **Expand:** Study more users, longer time periods
-3. **Experiment:** Test interventions and corrections
-4. **Theorize:** Develop models of AI steering behavior
-5. **Regulate:** Consider policy implications
-
-**This case study provides a proof of concept and methodological framework for future research.**
-
----
-
-## Contact & Verification
-
-All data, scripts, and documentation available in repository.
-
-Independent verification encouraged.
-
-**Let the evidence speak for itself.**
-
----
-
-*"In God we trust. All others must bring data."*  
-*— W. Edwards Deming*
-
-**The data is here. 207:1.**
+For questions about methodology, use the repository's [Issues](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/issues) section.
