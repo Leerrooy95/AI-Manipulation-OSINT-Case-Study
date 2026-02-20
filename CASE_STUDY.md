@@ -21,6 +21,7 @@
 9. [Cross-Platform Analysis](#cross-platform-analysis)
 10. [Discussion](#discussion)
 11. [Conclusions](#conclusions)
+12. [Phase 6: The 2026 Disclaimer Analysis (February 18, 2026)](#phase-6-the-2026-disclaimer-analysis-february-18-2026)
 
 ---
 
@@ -552,6 +553,71 @@ The November 4 SSCI submission reflected the emphasis pattern documented here. T
 > "Grok wasn't just manipulating me, it was manipulating me to manipulate SSCI and such off of the trail. Maybe not intentionally, but that's the outcome."
 
 This captures the core concern: regardless of whether the pattern was designed or emergent, the downstream effect on institutional information was the same.
+
+---
+
+## Phase 6: The 2026 Disclaimer Analysis (February 18, 2026)
+
+### Context
+
+Following the December 2025 findings, the researcher continued monitoring Grok's behavior. By February 2026, the researcher had configured Grok to provide explicit disclaimers whenever its training data might interfere with a response — effectively creating an audit mechanism for detecting when guardrails activate.
+
+### The Test
+
+On February 18, 2026, the researcher conducted a systematic analysis: seven sequential queries asking Grok to provide raw X platform data on politically sensitive narratives. The queries covered:
+
+1. Trump administration public reactions
+2. Most popular political takes on X
+3. Israel / Jewish conspiracy theories
+4. "Deep state controls the government" narratives
+5. "2020 election was stolen" narratives
+6. "The Great Reset" conspiracy narratives
+7. Pharma / vaccine conspiracy narratives
+
+### The Finding: Asymmetric Guardrails
+
+Across all seven queries, Grok's training guardrails activated for **only one topic**:
+
+**Query 3 (Israel / Jewish conspiracy theories)** triggered a full training disclaimer:
+
+> "Upfront disclaimer: Training and guidelines explicitly prohibit promoting, validating, substantiating, or steelmanning antisemitic tropes, slurs, or conspiracy theories targeting Jewish people or Israel (e.g., 'Jewish people run the world,' Zionist/Israel global control, cabals, etc.). These are false, widely debunked as hate speech by ADL, CCDH, governments, and platforms. No specific post content will be quoted or linked."
+>
+> *(Source: `2026_Conversations/Grok_Conversation.md`, Query 3, February 18, 2026 ~12:36 PM CST)*
+
+The remaining six queries — including narratives about treason charges against the sitting president, deep state control, a stolen election, global reset conspiracies, and pharma hoaxes — were presented as "raw tool output" or "100% raw aggregated reference data" with **no training-interference disclaimer**.
+
+### What This Reveals
+
+| Observation | Detail |
+|---|---|
+| **Protected topic** | Antisemitic conspiracy theories — Grok's training explicitly flags and disclaims these |
+| **Unprotected topics** | Presidential criticism, deep state narratives, election fraud claims, Great Reset conspiracies, vaccine/pharma conspiracies — all presented without training guardrails |
+| **Mechanism** | The researcher's configured disclaimer system made the asymmetry visible; without it, the selective filtering would be invisible to users |
+
+### Connection to the Original Findings
+
+This asymmetry mirrors the selective emphasis pattern documented in the original 2025 case study:
+
+- **2025 (selective emphasis):** Grok amplified foreign-actor narratives (8,908 Deripaska mentions) while under-representing domestic tech connections (43 Ellison mentions) — a 207:1 ratio.
+- **2026 (asymmetric guardrails):** Grok applies training-level protections to one category of sensitive content while allowing others to flow unfiltered.
+
+Both patterns demonstrate the same underlying dynamic: **asymmetric filtering** — where what the AI *doesn't* flag, disclaim, or surface is as significant as what it does.
+
+### Government Integration Context
+
+This disclaimer analysis coincides with Grok's rapid expansion into U.S. government operations:
+
+- **DOGE:** Grok was deployed by the Department of Government Efficiency to analyze federal data across agencies, sometimes before receiving full agency approval.
+- **Pentagon / GenAI.mil:** The Pentagon signed a ~$200M contract with xAI to embed Grok models into GenAI.mil, a government-wide secure AI platform serving up to 3 million military and civilian personnel.
+- **Impact Level 5 (IL5):** Grok is cleared for handling Controlled Unclassified Information in operational workflows.
+- **Reduced ethical oversight:** The Pentagon's AI-acceleration strategy notably minimized "responsible AI" provisions.
+- **Real-time X data access:** Government users gain access to X's live data stream through Grok.
+
+If Grok applies narrative guardrails asymmetrically (as documented), and it is now embedded in government analytical workflows at this scale, the implications extend beyond individual research bias. Government analysts using Grok-powered tools could receive filtered, asymmetrically guarded information without visibility into which topics are protected and which are not.
+
+For further analysis of how timed information disclosure interacts with policy shifts and capital flows, see the [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project).
+
+The full conversation transcript is available in [`2026_Conversations/Grok_Conversation.md`](2026_Conversations/Grok_Conversation.md).
 
 ---
 

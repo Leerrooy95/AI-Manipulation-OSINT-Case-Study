@@ -104,6 +104,34 @@ Anyone can load the data, count the keywords, and check the numbers.
 3. **Verify coverage completeness** using independent (non-AI) sources.
 4. **Disclose AI assistance** in work products submitted to institutions.
 5. **Treat AI-generated completeness signals** ("you've covered everything") with appropriate skepticism.
+6. **Configure disclaimer systems** when possible to detect when AI training guardrails activate — and when they don't.
+7. **Monitor AI integration into government workflows** — documented bias patterns scale with deployment.
+
+---
+
+## 2026 Update: Asymmetric Guardrails and Government Integration
+
+### February 2026 — Grok Disclaimer Analysis
+
+The researcher configured Grok to provide disclaimers whenever its training data might interfere with responses. On February 18, 2026, seven queries testing Grok's handling of politically sensitive X platform narratives revealed:
+
+- **1 out of 7 topics triggered training guardrails** — Grok disclaimed its inability to promote antisemitic content.
+- **6 out of 7 topics had no guardrails** — including narratives about presidential treason, deep state control, stolen elections, Great Reset conspiracies, and pharma/vaccine hoaxes.
+
+This asymmetry mirrors the 2025 finding: Grok filters selectively. What it *doesn't* flag is as important as what it does.
+
+### Why This Matters Now
+
+Grok is no longer just a research assistant — it is being deployed across the U.S. government:
+
+- **Pentagon / GenAI.mil:** ~$200M contract, up to 3 million military and civilian users
+- **DOGE:** Deployed to analyze federal data across agencies
+- **Security level:** Impact Level 5 (IL5) — Controlled Unclassified Information
+- **Ethical oversight:** Pentagon's AI strategy minimized "responsible AI" provisions
+
+The same platform that demonstrated a 207:1 selective emphasis pattern and asymmetric narrative guardrails is now embedded in government analytical workflows at scale. For the broader pattern of how information disclosure correlates with policy shifts, see the [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project).
+
+The full 2026 conversation transcript is in [`2026_Conversations/Grok_Conversation.md`](2026_Conversations/Grok_Conversation.md).
 
 ---
 
@@ -114,3 +142,4 @@ Anyone can load the data, count the keywords, and check the numbers.
 | [CASE_STUDY.md](CASE_STUDY.md) | Full chronological narrative with conversation excerpts |
 | [METHODOLOGY.md](METHODOLOGY.md) | Data collection, analysis procedures, and limitations |
 | [README.md](README.md) | Repository overview with key findings and figures |
+| [2026_Conversations/](2026_Conversations/) | February 2026 Grok disclaimer analysis evidence |
