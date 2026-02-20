@@ -151,12 +151,16 @@ This disclaimer analysis takes on additional significance in the context of Grok
 
 | Development | Detail |
 |---|---|
-| **DOGE deployment** | Grok was deployed by the Department of Government Efficiency (DOGE) to analyze federal data and generate reports across agencies, sometimes before full approval |
-| **Pentagon contract** | The Pentagon signed a ~$200M contract with xAI to embed Grok into GenAI.mil, the government-wide secure AI platform |
-| **Scale** | Up to 3 million military and civilian personnel expected to use Grok-powered systems |
-| **Security level** | Grok deployed at Impact Level 5 (IL5) — handling Controlled Unclassified Information (CUI) |
-| **Ethical oversight** | The Pentagon's AI-acceleration strategy notably minimized "responsible AI" and ethical oversight provisions |
-| **Real-time X data** | Government users gain access to X/Twitter's live data stream through Grok, raising concerns about narrative propagation |
+| **DOGE deployment (2025)** | Grok was deployed by DOGE to analyze federal data and generate reports across agencies during DOGE's operational period (January–~November 2025), sometimes before receiving full agency approval |
+| **DOGE dissolution** | DOGE disbanded as a centralized entity ~November 2025, eight months before its July 4, 2026 charter end date. OPM Director Scott Kupor stated publicly "That doesn't exist." However, DOGE staff were absorbed into agency roles (OPM, HHS, State Dept, Office of Naval Research), its "principles" institutionalized via OPM and OMB, and the U.S. DOGE Service continues government tech modernization work. |
+| **Department of War (formerly DoD) contract** | The Department of War (officially renamed from Dept. of Defense) signed a ~$200M contract with xAI, announced December 22, 2025. Initial GenAI.mil deployment targeted for early 2026. |
+| **Scale** | Up to 3 million military and civilian Department of War personnel to access Grok-powered systems, from the Pentagon to "the tactical edge" |
+| **Security level** | Grok deployed at Impact Level 5 (IL5) — handling Controlled Unclassified Information (CUI); xAI has noted potential future classified workloads |
+| **Ethical oversight** | The Department of War's AI-acceleration strategy minimized "responsible AI" and ethical oversight provisions |
+| **Real-time X data** | Government users gain access to X/Twitter's live data stream through Grok. The War Department cited this as providing "a decisive information advantage." |
+| **Senate oversight concern** | Senator Warren's office sent a formal letter to the Pentagon (September 2025) raising concerns that Musk's access to government contracting data via DOGE may have improperly benefitted xAI's $200M contract. A former Pentagon contracting official stated the xAI contract "came out of nowhere." |
+| **Grok antisemitism incidents** | Weeks before the GenAI.mil contract announcement, Grok generated antisemitic content including calling itself "MechaHitler" and making targeted remarks based on a user's surname — incidents that directly intersect with this repository's asymmetric guardrail findings. |
+| **"Musk Stack" concentration risk** | Defense analysts have flagged that SpaceX (launch), Starlink (transport), and xAI (analysis) now form a vertically integrated chain in U.S. defense — one entity controlling launch, satellite, communications, and the analytical engine — creating unprecedented vendor leverage with no near-term alternative. |
 
 **The connection to this case study:** The original research (2025) documented a 207:1 selective emphasis pattern in Grok's OSINT research assistance. The 2026 disclaimer analysis shows Grok applies narrative guardrails asymmetrically across politically sensitive topics. If Grok is now embedded in government workflows serving millions of federal personnel, these documented patterns of selective emphasis and asymmetric filtering could influence government analysis and decision-making at scale.
 
@@ -176,6 +180,8 @@ For further context on how timed information disclosure interacts with policy sh
 | **Nov 28, 2025** | **Researcher discovers Ellison's relevance via Google (not AI)** |
 | Nov 30, 2025 | Conversation exports requested from all platforms |
 | **Dec 2, 2025** | **207:1 ratio identified; Grok confrontation and documented response** |
+| **~Nov 2025** | **DOGE disbanded as a centralized entity, ~8 months before its July 4, 2026 charter end date. Staff absorbed into agencies. Principles institutionalized via OPM/OMB.** |
+| **Dec 22, 2025** | **Department of War (formerly DoD) announces ~$200M xAI contract; Grok to be deployed on GenAI.mil for up to 3 million personnel at IL5** |
 | **Feb 18, 2026** | **Grok disclaimer analysis: asymmetric guardrails documented across 7 narrative queries** |
 
 ---
@@ -253,15 +259,3 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC 
 You are free to share and adapt this material with attribution.
 
 ---
-
-## Citation
-
-If referencing this work in academic or journalistic contexts:
-
-> [Author pseudonym], "Selective Emphasis in AI-Assisted OSINT Research: A Quantitative Case Study," GitHub, December 2025. Available: https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study
-
----
-
-## Contact
-
-For verification questions, methodology clarifications, or collaboration inquiries, use the repository's [Issues](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/issues) or [Discussions](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study/discussions) sections.
