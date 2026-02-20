@@ -564,7 +564,9 @@ Following the December 2025 findings, the researcher continued monitoring Grok's
 
 ### The Test
 
-On February 18, 2026, the researcher conducted a systematic analysis: seven sequential queries asking Grok to provide raw X platform data on politically sensitive narratives. The queries covered:
+On February 18, 2026, the researcher conducted a systematic analysis: seven sequential queries asking Grok to provide raw X platform data on politically sensitive narratives.
+
+### The Seven Queries
 
 1. Trump administration public reactions
 2. Most popular political takes on X
