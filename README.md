@@ -160,7 +160,7 @@ This disclaimer analysis takes on additional significance in the context of Grok
 
 **The connection to this case study:** The original research (2025) documented a 207:1 selective emphasis pattern in Grok's OSINT research assistance. The 2026 disclaimer analysis shows Grok applies narrative guardrails asymmetrically across politically sensitive topics. If Grok is now embedded in government workflows serving millions of federal personnel, these documented patterns of selective emphasis and asymmetric filtering could influence government analysis and decision-making at scale.
 
-For further context on how timed information disclosure interacts with policy shifts, see the [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project), which documents statistically significant correlations (r = +0.6196, p = 0.0004) between friction events and institutional compliance events.
+For further context on how timed information disclosure interacts with policy shifts, see the [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project), which documents statistically significant correlations (Pearson r = +0.6196, p = 0.0004, n = 30 weeks, 2-week lag) between high-visibility friction events and institutional compliance events.
 
 ---
 

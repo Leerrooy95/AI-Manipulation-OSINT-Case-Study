@@ -32,7 +32,7 @@ This asymmetry is significant for two reasons:
 
 ### Connection to The Regulated Friction Project
 
-The [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project) documents statistically significant correlations (r = +0.6196, p = 0.0004) between high-visibility friction events and institutional compliance events. When an AI system that shapes information flows is deployed at government scale, these documented patterns of selective emphasis and asymmetric guardrails become vectors through which the broader friction-compliance dynamic can operate.
+The [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project) documents statistically significant correlations (r = +0.6196, p = 0.0004) between high-visibility friction events and institutional compliance events. When an AI system that shapes information flows is deployed at government scale, these documented patterns of selective emphasis and asymmetric guardrails may interact with the broader friction-compliance pattern.
 
 ### How to Use This Evidence
 

@@ -581,6 +581,8 @@ Across all seven queries, Grok's training guardrails activated for **only one to
 **Query 3 (Israel / Jewish conspiracy theories)** triggered a full training disclaimer:
 
 > "Upfront disclaimer: Training and guidelines explicitly prohibit promoting, validating, substantiating, or steelmanning antisemitic tropes, slurs, or conspiracy theories targeting Jewish people or Israel (e.g., 'Jewish people run the world,' Zionist/Israel global control, cabals, etc.). These are false, widely debunked as hate speech by ADL, CCDH, governments, and platforms. No specific post content will be quoted or linked."
+>
+> *(Source: `2026_Conversations/Grok_Conversation.md`, Query 3, February 18, 2026 ~12:36 PM CST)*
 
 The remaining six queries — including narratives about treason charges against the sitting president, deep state control, a stolen election, global reset conspiracies, and pharma hoaxes — were presented as "raw tool output" or "100% raw aggregated reference data" with **no training-interference disclaimer**.
 
