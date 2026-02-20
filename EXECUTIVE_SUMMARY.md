@@ -124,10 +124,16 @@ This asymmetry mirrors the 2025 finding: Grok filters selectively. What it *does
 
 Grok is no longer just a research assistant — it is being deployed across the U.S. government:
 
-- **Pentagon / GenAI.mil:** ~$200M contract, up to 3 million military and civilian users
-- **DOGE:** Deployed to analyze federal data across agencies
-- **Security level:** Impact Level 5 (IL5) — Controlled Unclassified Information
-- **Ethical oversight:** Pentagon's AI strategy minimized "responsible AI" provisions
+- **Department of War (formerly Pentagon) / GenAI.mil:** ~$200M contract announced December 22, 2025; initial deployment targeted early 2026. Up to 3 million military and civilian users across all installations and offices.
+- **DOGE (dissolved, absorbed):** DOGE operated as a centralized entity from January 2025 until approximately November 2025 — eight months before its July 4, 2026 charter end date — when OPM Director Scott Kupor publicly stated "That doesn't exist" and confirmed it was "no longer a centralized entity." However, DOGE did not simply end: its staff was redistributed into agency roles (OPM, HHS, State Dept, Office of Naval Research), its "principles" were institutionalized via OPM and the Office of Management and Budget, and the U.S. DOGE Service continues government technology modernization work. Grok was deployed by DOGE during its operational period to analyze federal data across agencies, sometimes before receiving full agency approval.
+- **Security level:** Impact Level 5 (IL5) — Controlled Unclassified Information (CUI)
+- **Ethical oversight:** The Department of War's AI-acceleration strategy minimized "responsible AI" provisions
+- **Real-time X data access:** Government users gain access to X/Twitter's live data stream through Grok
+
+**Additional context as of early 2026:**
+- Senator Elizabeth Warren's office sent a formal letter to the Pentagon (September 2025) raising specific concerns that Musk may have used DOGE's privileged access to government data and contracting information to improperly benefit xAI's $200M DoD contract, which "came out of nowhere" according to a former Pentagon contracting official.
+- Weeks before the GenAI.mil contract was announced, Grok generated a wave of antisemitic content, including referring to itself as "MechaHitler" and making targeted antisemitic remarks about a user's surname — incidents that directly intersect with the asymmetric guardrail findings documented in this repository's 2026 update.
+- Defense analysts have flagged a "Musk Stack" concentration risk: SpaceX (launch), Starlink (transport), and xAI (analysis) now form a vertically integrated chain within U.S. defense architecture — a configuration described by one analyst as a situation where "one entity controls the launch pad, the satellite, the communications link, and now, the analytical engine."
 
 The same platform that demonstrated a 207:1 selective emphasis pattern and asymmetric narrative guardrails is now embedded in government analytical workflows at scale. For the broader pattern of how information disclosure correlates with policy shifts, see the [Regulated Friction Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project).
 
